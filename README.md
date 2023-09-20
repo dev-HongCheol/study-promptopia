@@ -1,3 +1,16 @@
+### logs
+
+#### 2023.10.20
+
+- prettier + tailwind setting
+- github setting
+- add lib
+  ```bash
+  yarn add crypt mongodb mongoose next-auth
+  ```
+
+---
+
 This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
 
 ## Getting Started
